@@ -1,1 +1,1 @@
-# MIT-WPU-Python-Assignments-1st-SEMESTER
+# MIT WPU LCA 1
